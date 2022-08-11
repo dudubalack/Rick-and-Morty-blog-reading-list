@@ -97,3 +97,8 @@ To publish your website you need to push your code to your github repository and
 $ npm run deploy
 ```
 Note: You will need to [configure github pages for the branch gh-pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages)
+ Note: Done 
+Use Bootstrap components, you need almost no custom CSS.
+Take some time to understand the SWAPI.tech API, this will be our source of information, we will be consuming this API.
+Fetch the SWAPI people, vehicles and planets, and display them on your application.
+Declare a favorites array in your central store and allow the user to add or remove favorites.
